@@ -26,6 +26,8 @@ def load_data():
     archivo = archivo.set_index('time')
     return archivo
     # To do: Completar la función 
+
+# Cambio realizado en rama jesus-viz
     
 
 # Cargar datos
